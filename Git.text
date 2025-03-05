@@ -28,3 +28,8 @@ la página inicial del sitio web.")
 - Running "git commit -m "message"" moves the staged changes to the Repository.
 
 #Class 5
+- With "git add -A" pass the files from Working directory to Stage area
+- With "git log" show all history of changes
+
+#Class 6
+- 
