@@ -18,4 +18,13 @@
 la página inicial del sitio web.")
 
 #Class 4
+- Working directory (Directorio de trabajo): All the project, where you modify files
+- Stage area (Área de preparación): Where you add specific changes to be included in the next commit.
+- Repository: Where committed changes are permanently stored (Commit History).
 
+# How the Staging Area Works
+- When you modify a file, it stays in the Working Directory.
+- Running "git add" <file> moves the changes to the Staging Area.
+- Running "git commit -m "message"" moves the staged changes to the Repository.
+
+#Class 5
