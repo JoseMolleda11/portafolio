@@ -1,0 +1,21 @@
+#Class 1
+- Select the adress of your code (Exam: /e/06. Programming/01. Visual Studio Code/Git/mi-portafolio)
+- Create a repository with: git init
+- Use "cd" for to enter to directory
+
+#Class 2
+- git config --global user.name "Jose Molleda" (Configure main user)
+- git config --global user.email "jose.molleda.1999@gmail.com" (Configure main email)
+- git config user.name (view main user)
+- git config user.email (view main email)
+- git config --global core.editor "vim" (Select the editor)
+- git config --global core.editor (view the editor. Exam: VSC,vim)
+
+#Class 3
+- With "git status" you can see branch and commits
+- With "git add" you select the file (Exam: git add index.html)
+- With "git commit -m" you enter the text (Exam: git commit -m "Se crea el archivo index.html que será 
+la página inicial del sitio web.")
+
+#Class 4
+
