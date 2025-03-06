@@ -60,7 +60,8 @@ la página inicial del sitio web.")
 - With "git remote add origin https://github.com/JoseMolleda11/portafolio.git" (https) you
 can connect with github
 - With "git push origin master" you update your commit in github
-
+- With "git branch" you can see the rames
+ 
  
 
 
