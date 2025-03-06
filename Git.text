@@ -50,5 +50,7 @@ la página inicial del sitio web.")
 #Class 8
 - With "git checkout -b "dev"" you can create a new branch
 - With "git switch -c "dev"" you can create and change to new rame "dev"
+- With "git merge dev" you can merge to rames
+- With "git diff dev" you can compare two rame
 
 
