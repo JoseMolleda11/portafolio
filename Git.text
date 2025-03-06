@@ -56,6 +56,12 @@ la página inicial del sitio web.")
 
 # Class 9
 - Create a rame "test" for you show the new changes and rame "dev" for the changes
+- With "git remote -v" you can synchronize with Git Hub
+- With "git remote add origin https://github.com/JoseMolleda11/portafolio.git" (https) you
+can connect with github
+- With "git push origin master" you update your commit in github
+
+ 
 
 
 
