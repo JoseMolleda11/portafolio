@@ -52,5 +52,8 @@ la página inicial del sitio web.")
 - With "git switch -c "dev"" you can create and change to new rame "dev"
 - With "git merge dev" you can merge to rames
 - With "git diff dev" you can compare two rame
+- With letter "q" you can exit of git log
+
+
 
 
