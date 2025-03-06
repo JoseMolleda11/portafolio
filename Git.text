@@ -32,4 +32,23 @@ la página inicial del sitio web.")
 - With "git log" show all history of changes
 
 #Class 6
-- 
+- With "git restore --staged "styles.css"" you can pass from Stage area to Working directory
+- With "git checkout "styles.css"" you can restant to the previous commit
+
+#Class 7
+- With "git show ......" you can see the details changes
+- With "git log --oneline" you can see the details in one line
+- With "git log --oneline "styles.css"" if you put the file, you only see his commit
+- With "git log --oneline --author="Jose Molleda"" you see the commit from the author
+- With "git log --oneline --grep="se"" for to look for a text
+
+#Class 8
+- With "git checkout master" you get the current repository
+- With "git log --oneline --graph" you see a graph of commit
+- With "git branch" you can see the rame that you user
+
+#Class 8
+- With "git checkout -b "dev"" you can create a new branch
+- With "git switch -c "dev"" you can create and change to new rame "dev"
+
+
